@@ -1,2 +1,2 @@
-## demo
-![Demo](https://raw.githubusercontent.com/telase/PRO/master/pro.png)
+## IPTVPlayer
+Klasörün içine ffplay.exe yi ekleyiniz
