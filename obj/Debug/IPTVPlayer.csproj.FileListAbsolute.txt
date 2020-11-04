@@ -1,0 +1,10 @@
+C:\Users\TeLaSe\Desktop\IPTVPlayer\bin\Debug\IPTVPlayer.exe.config
+C:\Users\TeLaSe\Desktop\IPTVPlayer\bin\Debug\IPTVPlayer.exe
+C:\Users\TeLaSe\Desktop\IPTVPlayer\bin\Debug\IPTVPlayer.pdb
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.csprojAssemblyReference.cache
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.Form1.resources
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.Properties.Resources.resources
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.csproj.GenerateResource.cache
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.csproj.CoreCompileInputs.cache
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.exe
+C:\Users\TeLaSe\Desktop\IPTVPlayer\obj\Debug\IPTVPlayer.pdb
